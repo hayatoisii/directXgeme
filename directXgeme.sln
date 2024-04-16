@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "directXgeme", "directXgeme.vcxproj", "{668DFDBA-99BD-4AA3-9674-2F874A253FC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{BA709294-7D09-45EF-A886-4DC3C0F8B5A7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668DFDBA-99BD-4AA3-9674-2F874A253FC9}.Debug|x64.ActiveCfg = Debug|x64
+		{668DFDBA-99BD-4AA3-9674-2F874A253FC9}.Debug|x64.Build.0 = Debug|x64
+		{668DFDBA-99BD-4AA3-9674-2F874A253FC9}.Release|x64.ActiveCfg = Release|x64
+		{668DFDBA-99BD-4AA3-9674-2F874A253FC9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {402F420B-13D2-4A9C-8AB9-2ABE3E1C98A4}
+	EndGlobalSection
+EndGlobal
